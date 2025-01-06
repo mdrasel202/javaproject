@@ -1,4 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cceabdbb-7fc9-4442-bd5e-5e09b43f70fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Omar/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Omar/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Omar/GridSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Omar/MaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Omar/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classexm4_1_25/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classexm4_1_25/SortArray_Consecutive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classexm4_1_25/TeturnNextNumberInterger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classexm4_1_25/TwoNumReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classexm_5_1_25/EmployeesDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classexm_5_1_25/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/Rekartionra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exmclass1/FileSizeKBMB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exmclass1/InterfaceSearchable/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exmclass1/InterfaceSearchable/Searchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exmclass1/InterfaceSearchable/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exmclass1/InterfaceSearchable/Webpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exmclass1/ReadPlainTextFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mdrasel202&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mdrasel202/javaproject.git&quot;,
+    &quot;accountId&quot;: &quot;569fce91-31cf-4b97-9c9a-301fef746da3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2qvXyjHZ4XvvNhuWmW0zI1KuxU1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DateModified.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FileSizeKBMB.executor": "Run",
+    "Application.GridSystem.executor": "Run",
+    "Application.OddEven.executor": "Run",
+    "Application.ReadPlainTextFile.executor": "Run",
+    "Application.Rekartionra.executor": "Run",
+    "Application.SortArray_Consecutive.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TeturnNextNumberInterger.executor": "Run",
+    "Application.TwoNumReturn.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Java Student PC-5/Desktop/1285720/java/javaproject/javaproject/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classexm4_1_25.OddEven" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classexm4_1_25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortArray_Consecutive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classexm4_1_25.SortArray_Consecutive" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classexm4_1_25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classexm_5_1_25.Test" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classexm_5_1_25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeturnNextNumberInterger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classexm4_1_25.TeturnNextNumberInterger" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classexm4_1_25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoNumReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classexm4_1_25.TwoNumReturn" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classexm4_1_25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SortArray_Consecutive" />
+        <item itemvalue="Application.OddEven" />
+        <item itemvalue="Application.TwoNumReturn" />
+        <item itemvalue="Application.TeturnNextNumberInterger" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cceabdbb-7fc9-4442-bd5e-5e09b43f70fc" name="Changes" comment="" />
+      <created>1735544279043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735544279043</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
 </project>
