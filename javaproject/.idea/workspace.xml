@@ -4,26 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cceabdbb-7fc9-4442-bd5e-5e09b43f70fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Omar/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Omar/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Omar/GridSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Omar/MaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Omar/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classexm4_1_25/OddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classexm4_1_25/SortArray_Consecutive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classexm4_1_25/TeturnNextNumberInterger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classexm4_1_25/TwoNumReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classexm_5_1_25/EmployeesDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classexm_5_1_25/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/Rekartionra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exmclass1/FileSizeKBMB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exmclass1/InterfaceSearchable/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exmclass1/InterfaceSearchable/Searchable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exmclass1/InterfaceSearchable/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exmclass1/InterfaceSearchable/Webpage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exmclass1/ReadPlainTextFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="cceabdbb-7fc9-4442-bd5e-5e09b43f70fc" name="Changes" comment="Isdb Class">
+      <change afterPath="$PROJECT_DIR$/src/extraclass/SwitchStatementAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionsolve/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionsolve/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionsolve/NegativeNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionsolve/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionsolve/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionsolve/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +56,17 @@
     "Application.Fibonacci.executor": "Run",
     "Application.FileSizeKBMB.executor": "Run",
     "Application.GridSystem.executor": "Run",
+    "Application.MainTest.executor": "Run",
     "Application.OddEven.executor": "Run",
     "Application.ReadPlainTextFile.executor": "Run",
     "Application.Rekartionra.executor": "Run",
     "Application.SortArray_Consecutive.executor": "Run",
+    "Application.SwitchStatementAge.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TeturnNextNumberInterger.executor": "Run",
     "Application.TwoNumReturn.executor": "Run",
+    "Application.project.atm.Test.executor": "Run",
+    "Application.questionsolve.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -82,13 +74,18 @@
     "onboarding.tips.debug.path": "C:/Users/Java Student PC-5/Desktop/1285720/java/javaproject/javaproject/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classexm4_1_25.OddEven" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Java Student PC-5\Desktop\1285720\java\javaproject\javaproject\src\questionsolve" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyRegexIpPattern">
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questionsolve.MainTest" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classexm4_1_25.*" />
+          <option name="PATTERN" value="questionsolve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArray_Consecutive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classexm4_1_25.SortArray_Consecutive" />
+    <configuration name="MyRegexIpPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questionsolve1.MyRegexIpPattern" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classexm4_1_25.*" />
+          <option name="PATTERN" value="questionsolve1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classexm_5_1_25.Test" />
+    <configuration name="SwitchStatementAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extraclass.SwitchStatementAge" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classexm_5_1_25.*" />
+          <option name="PATTERN" value="extraclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TeturnNextNumberInterger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classexm4_1_25.TeturnNextNumberInterger" />
+    <configuration name="project.atm.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.atm.Test" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classexm4_1_25.*" />
+          <option name="PATTERN" value="project.atm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoNumReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classexm4_1_25.TwoNumReturn" />
+    <configuration name="questionsolve.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questionsolve.Test" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classexm4_1_25.*" />
+          <option name="PATTERN" value="questionsolve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.SortArray_Consecutive" />
-        <item itemvalue="Application.OddEven" />
-        <item itemvalue="Application.TwoNumReturn" />
-        <item itemvalue="Application.TeturnNextNumberInterger" />
+        <item itemvalue="Application.MyRegexIpPattern" />
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.questionsolve.Test" />
+        <item itemvalue="Application.SwitchStatementAge" />
+        <item itemvalue="Application.project.atm.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +164,20 @@
       <option name="presentableId" value="Default" />
       <updated>1735544279043</updated>
     </task>
+    <task id="LOCAL-00001" summary="Isdb Class">
+      <option name="closed" value="true" />
+      <created>1736136303458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736136303458</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Isdb Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Isdb Class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
