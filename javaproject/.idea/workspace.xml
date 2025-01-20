@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cceabdbb-7fc9-4442-bd5e-5e09b43f70fc" name="Changes" comment="Isdb Class">
-      <change afterPath="$PROJECT_DIR$/src/extraclass/SwitchStatementAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionsolve/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionsolve/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionsolve/NegativeNumberException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionsolve/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionsolve/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionsolve/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employmanagement/CalaculatorInformation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employmanagement/ContractEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employmanagement/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employmanagement/FullTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employmanagement/InformationEmployee.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employmanagement/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employmanagement/PartTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employmanagement/TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectatm1/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectatm1/CalculationBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionsolve2/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionsolve2/CurrentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionsolve2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questionsolve2/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlParserProject/resource/students.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlParserProject/src/StudentHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,36 +59,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DateModified.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.FileSizeKBMB.executor": "Run",
-    "Application.GridSystem.executor": "Run",
-    "Application.MainTest.executor": "Run",
-    "Application.OddEven.executor": "Run",
-    "Application.ReadPlainTextFile.executor": "Run",
-    "Application.Rekartionra.executor": "Run",
-    "Application.SortArray_Consecutive.executor": "Run",
-    "Application.SwitchStatementAge.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.TeturnNextNumberInterger.executor": "Run",
-    "Application.TwoNumReturn.executor": "Run",
-    "Application.project.atm.Test.executor": "Run",
-    "Application.questionsolve.Test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Java Student PC-5/Desktop/1285720/java/javaproject/javaproject/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DateModified.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileSizeKBMB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GridSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyRegexIpPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadPlainTextFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rekartionra.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortArray_Consecutive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchStatementAge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TeturnNextNumberInterger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoNumReturn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.employmanagement.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.project.atm.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.questionsolve.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Java Student PC-5/Desktop/1285720/java/javaproject/javaproject/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Java Student PC-5\Desktop\1285720\java\javaproject\javaproject\src\questionsolve" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyRegexIpPattern">
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questionsolve2.Main" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="questionsolve2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="questionsolve.MainTest" />
       <module name="javaproject" />
@@ -106,20 +131,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchStatementAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extraclass.SwitchStatementAge" />
-      <module name="javaproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="extraclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="project.atm.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="project.atm.Test" />
       <module name="javaproject" />
       <extension name="coverage">
@@ -132,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="questionsolve.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questionsolve.Test" />
+    <configuration name="employmanagement.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employmanagement.Main" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="questionsolve.*" />
+          <option name="PATTERN" value="employmanagement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.employmanagement.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MyRegexIpPattern" />
         <item itemvalue="Application.MainTest" />
-        <item itemvalue="Application.questionsolve.Test" />
-        <item itemvalue="Application.SwitchStatementAge" />
-        <item itemvalue="Application.project.atm.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736136303458</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Isdb Class">
+      <option name="closed" value="true" />
+      <created>1736402293961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736402293961</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
