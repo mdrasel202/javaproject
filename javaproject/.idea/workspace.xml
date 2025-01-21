@@ -5,23 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cceabdbb-7fc9-4442-bd5e-5e09b43f70fc" name="Changes" comment="Isdb Class">
-      <change afterPath="$PROJECT_DIR$/src/employmanagement/CalaculatorInformation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/employmanagement/ContractEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/employmanagement/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/employmanagement/FullTimeEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/employmanagement/InformationEmployee.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/employmanagement/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/employmanagement/PartTimeEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/employmanagement/TaxCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projectatm1/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projectatm1/CalculationBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionsolve2/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionsolve2/CurrentAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionsolve2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questionsolve2/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../xmlParserProject/resource/students.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../xmlParserProject/src/StudentHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracleproject/src/redfile/InsertData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracleproject/src/redfile/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracleproject/src/redfile/Oracle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracleproject/src/redfile/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracleproject/src/redfile/RetriveData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracleproject/src/redfile/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracleproject/src/redfile/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracleproject/src/redfile/write.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oracleproject/src/redfileandinsertfile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oracleproject/src/redfileandinsertfile/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
