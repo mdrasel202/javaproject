@@ -4,13 +4,11 @@ public class Account {
     private String name;
     private double withdraw;
     private double deposit;
-    private double checkBalance;
+    private double balance;
 
-    public Account(String name, double withdraw, double deposit, double checkBalance) {
+    public Account(String name, double balance) {
         this.name = name;
-        this.withdraw = withdraw;
-        this.deposit = deposit;
-        this.checkBalance = checkBalance;
+        this.balance = balance;
     }
 
     public String getName() {
@@ -25,12 +23,20 @@ public class Account {
         return deposit;
     }
 
-    public double getCheckBalance() {
-        return checkBalance;
+    public double getBalance() {
+        return balance;
     }
 
     public  void displayInformation(){
         System.out.println("Your name : "+name);
-        System.out.println("Your Balance : "+checkBalance);
+        System.out.println("Your Balance : "+ balance);
+    }
+
+    public void depositMoney(double amount){
+        this.balance = balance +amount;
+    }
+
+    public void withdrawMoney(double amount){
+        this.balance = balance-amount;
     }
 }

@@ -19,6 +19,5 @@ public class StudentUpdate extends Oracle{
             e.printStackTrace();
         }
     }
-
-    }
+}
 
