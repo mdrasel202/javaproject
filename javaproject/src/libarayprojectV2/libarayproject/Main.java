@@ -1,4 +1,4 @@
-package libarayproject;
+package libarayprojectV2.libarayproject;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -62,9 +62,6 @@ public class Main {
                     System.out.println("Sorry the book is already borrow");
                 }
             }
-
-
         }
-
     }
 }
