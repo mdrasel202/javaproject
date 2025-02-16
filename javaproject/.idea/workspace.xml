@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cceabdbb-7fc9-4442-bd5e-5e09b43f70fc" name="Changes" comment="Isdb Class">
-      <change afterPath="$PROJECT_DIR$/src/libarayprojectV2/libarayproject/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/libarayprojectV2/libarayproject/Libaray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/libarayprojectV2/libarayproject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentdataInsert/.idea/libraries/ojdbc11_23_6_0_24_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentdataInsert/src/product/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentdataInsert/src/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentdataInsert/src/student/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentdataInsert/src/student/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libarayproject/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/libarayproject/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oracleproject/src/book1/Oracle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oracleproject/src/book1/Oracle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uml/src/ApiConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uml/src/ApiConnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,38 +49,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CalculationBalance.executor": "Run",
-    "Application.DateModified.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.FileSizeKBMB.executor": "Run",
-    "Application.GridSystem.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MainObject.executor": "Run",
-    "Application.MainTest.executor": "Run",
-    "Application.MaxMin.executor": "Run",
-    "Application.MyRegexIpPattern.executor": "Run",
-    "Application.OddEven.executor": "Run",
-    "Application.ReadPlainTextFile.executor": "Run",
-    "Application.Rekartionra.executor": "Run",
-    "Application.SortArray_Consecutive.executor": "Run",
-    "Application.SwitchStatementAge.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.TeturnNextNumberInterger.executor": "Run",
-    "Application.TwoNumReturn.executor": "Run",
-    "Application.employmanagement.Main.executor": "Run",
-    "Application.libarayproject.Main.executor": "Run",
-    "Application.project.atm.Test.executor": "Run",
-    "Application.questionsolve.Test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Java Student PC-5/Desktop/1285720/java/javaproject/javaproject/src/libarayprojectV2",
-    "onboarding.tips.debug.path": "C:/Users/Java Student PC-5/Desktop/1285720/java/javaproject/javaproject/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CalculationBalance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DateModified.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileSizeKBMB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GridSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyRegexIpPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadPlainTextFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rekartionra.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortArray_Consecutive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchStatementAge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TeturnNextNumberInterger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoNumReturn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.employmanagement.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.libarayproject.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.project.atm.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.questionsolve.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Java Student PC-5/Desktop/1285720/java/javaproject/javaproject/src/libarayprojectV2&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Java Student PC-5/Desktop/1285720/java/javaproject/javaproject/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Java Student PC-5\Desktop\1285720\java\javaproject\javaproject\src\libarayprojectV2" />
